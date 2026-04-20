@@ -105,7 +105,7 @@ Learning    : Advanced UI | System Design
 ## 🌌 Photo gallery from TEIS
 
 <p align="center">
-  <img src="[image2.png](https://github.com/user-attachments/assets/86ef28a3-6296-404e-90e0-28e1625bfe61)" width="280"/>
+  <img src="https://github.com/user-attachments/assets/86ef28a3-6296-404e-90e0-28e1625bfe61" width="280"/>
   <img src="https://wallpapercave.com/wp/wp11716794.jpg" width="280"/>
   <img src="https://images.justwatch.com/backdrop/300792356/s640/the-eminence-in-shadow.jpg" width="280"/>
 </p>
