@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="[image1.png](https://github.com/user-attachments/assets/d5d54659-eb5c-4a60-a7f2-684b9e33a346)" width="50%" />
+  <img src="https://github.com/user-attachments/assets/d5d54659-eb5c-4a60-a7f2-684b9e33a346" width="50%" />
 </p>
 
 <h1 align="center">⚡ Jubayed Reza ⚡</h1>
