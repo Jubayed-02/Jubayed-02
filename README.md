@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Jubayed Reza </h1>
+<h1 align="center"> Jubayed Reza Dibbo</h1>
 
 ---
 ## 🩶 Interests:
