@@ -69,13 +69,9 @@ Learning    : Advanced UI | System Design
 ---
 
 ## Connect
-
-<p align="center">
   <a href="mailto:jubayed.dibbo@gmail.com">
-    <p>Send me an email</p>
+    Send me an email
   </a>
-</p>
-
 
 <!-- ===================== FOOTER ===================== -->
 
