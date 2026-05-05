@@ -71,8 +71,8 @@ Learning    : Advanced UI | System Design
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <p>lorem</p>
+  <a href="mailto:jubayed.dibbo@gmail.com">
+    <p>Send me an email</p>
   </a>
 </p>
 
