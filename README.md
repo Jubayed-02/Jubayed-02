@@ -16,25 +16,10 @@ Here are some ideas to get you started:
 -->
 <!-- ===================== BANNER ===================== -->
 
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/d5d54659-eb5c-4a60-a7f2-684b9e33a346" width="50%](https://share.google/40POp6E3W98E53kNZ)" />
-</p>
-
-<h1 align="center">⚡ Jubayed Reza ⚡</h1>
-<h3 align="center">"I am... Atomic."</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Developer;Linux+Enthusiast;Anime+lover;" />
-</p>
-
----
-
-## About Me
 
 
-> ### Name: Jubayed Reza  
-> #### Focus: Building cool + creative projects  
-> #### OS: Fedora Linux 
+<h1 align="center"> Jubayed Reza </h1>
+
 ---
 ## 🩶 Interests:
 ```yaml
@@ -101,16 +86,6 @@ Learning    : Advanced UI | System Design
   </a>
 </p>
 
-
-## 🌌 Photo gallery from TEIS
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86ef28a3-6296-404e-90e0-28e1625bfe61" width="280"/>
-  <img src="https://wallpapercave.com/wp/wp11716794.jpg" width="280"/>
-  <img src="https://images.justwatch.com/backdrop/300792356/s640/the-eminence-in-shadow.jpg" width="280"/>
-</p>
-
----
 
 <!-- ===================== FOOTER ===================== -->
 
