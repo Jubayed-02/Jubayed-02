@@ -1,4 +1,4 @@
-## Hi there 👋, I am
+<h2 align="center"> Hi there 👋, I am</h2>
 
 <!--
 **Jubayed-02/Jubayed-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
