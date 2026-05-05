@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Jubayed Reza Dibbo</h1>
 
 ---
-## 🩶 Interests:
+## Interests:
 ```yaml
   - GUI Apps (PyQt5)
   - IoT + Arduino
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ```yaml
 Languages   : Python | C++ | JavaScript
@@ -41,7 +41,7 @@ Learning    : Advanced UI | System Design
 ```
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jubayed-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
@@ -53,32 +53,22 @@ Learning    : Advanced UI | System Design
 
 ---
 
-## 🚀 Projects
+## Projects
 
-* ```🎮 Stickman Game (Pygame)```
-* ```🧮 Calculator App (PyQt5)```
-* ```📷 Face Detection Camera (Arduino)```
-* ```⚡ More coming from the shadows...```
-
----
-
-## 🌠 System Status
-
-```diff
-+ STATUS: ONLINE
-+ ENERGY: ██████████ 100%
-- ERROR: NONE
-```
+* ```Stickman Game (Pygame)```
+* ```Calculator App (PyQt5)```
+* ```Face Detection Camera (Arduino)```
+* ```More coming from the shadows...```
 
 ---
 
-## ⚡ Quote
+## Quote
 
 > "The difference between fiction and reality... is that I make fiction real."
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
