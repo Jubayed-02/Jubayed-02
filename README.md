@@ -1,51 +1,28 @@
-<h2 align="center"> Hi there 👋, I am</h2>
-
-<!--
-**Jubayed-02/Jubayed-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ===================== BANNER ===================== -->
-
-
-
 <h1 align="center"> Jubayed Reza Dibbo</h1>
 
 ---
 ## Interests:
-```yaml
+
   - GUI Apps (PyQt5)
-  - IoT + Arduino
-  - Cyberpunk / Glitch Design  
-```
+  - IoT + Automation
+
+
 
 
 ---
 
 ## Tech Stack
 
-```yaml
-Languages   : Python | C++ | JavaScript
-Frameworks  : Pygame | PyQt5
-Tools       : Git | Linux | VS Code
+
+Languages   : Python | JavaScript
+Frameworks  : Pygame | PyQt
+Tools       : Git | Linux | VSCode
 Learning    : Advanced UI | System Design
-```
+
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jubayed-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubayed-02&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
@@ -55,10 +32,10 @@ Learning    : Advanced UI | System Design
 
 ## Projects
 
-* ```Stickman Game (Pygame)```
-* ```Calculator App (PyQt5)```
-* ```Face Detection Camera (Arduino)```
-* ```More coming from the shadows...```
+* Stickman Game (Pygame)
+* Calculator App (PyQt5)
+* Face Detection Camera (Arduino)
+* More coming from the shadows...
 
 ---
 
@@ -70,7 +47,7 @@ Learning    : Advanced UI | System Design
 
 ## Connect
   <a href="mailto:jubayed.dibbo@gmail.com">
-    Send me an email
+    jubayed.dibbo@gmail.com
   </a>
 
 <!-- ===================== FOOTER ===================== -->
