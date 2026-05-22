@@ -1,7 +1,9 @@
 <h1 align="center"> Jubayed Reza Dibbo</h1>
 
+
 ---
 ## Interests:
+
 
   - GUI Apps (PyQt5)
   - IoT + Automation
@@ -26,6 +28,7 @@ Learning    : Advanced UI | System Design
 
 ---
 
+
 ## Projects
 
 * Stickman Game (Pygame)
@@ -35,19 +38,13 @@ Learning    : Advanced UI | System Design
 
 ---
 
+
 ## Quote
 
 > "The difference between fiction and reality... is that I make fiction real."
 
 ---
 
-## Connect
-  <a href="mailto:jubayed.dibbo@gmail.com">
-    Email-me
-  </a>
-  <a href="https://www.linkedin.com/in/jubayedreza/">
-    Linked-in
-  </a>  
 
 <!-- ===================== FOOTER ===================== -->
 
