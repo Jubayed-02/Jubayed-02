@@ -31,7 +31,6 @@ Learning    : Advanced UI | System Design
 
 ## Projects
 
-* Stickman Game (Pygame)
 * Calculator App (PyQt5)
 * Face Detection Camera (Arduino)
 * More coming from the shadows...
