@@ -23,8 +23,9 @@ Learning    : Advanced UI | System Design
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jubayed-02&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubayed-02&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
 </p>
+
 ---
 
 
