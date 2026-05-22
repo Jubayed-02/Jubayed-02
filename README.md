@@ -6,9 +6,6 @@
   - GUI Apps (PyQt5)
   - IoT + Automation
 
-
-
-
 ---
 
 ## Tech Stack
@@ -22,7 +19,6 @@ Learning    : Advanced UI | System Design
 ---
 
 ## GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubayed-02&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
@@ -47,8 +43,11 @@ Learning    : Advanced UI | System Design
 
 ## Connect
   <a href="mailto:jubayed.dibbo@gmail.com">
-    jubayed.dibbo@gmail.com
+    Email-me
   </a>
+  <a href="https://www.linkedin.com/in/jubayedreza/">
+    Linked-in
+  </a>  
 
 <!-- ===================== FOOTER ===================== -->
 
